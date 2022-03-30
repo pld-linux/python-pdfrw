@@ -8,7 +8,7 @@ Summary:	PDF file reader/writer library
 Summary(pl.UTF-8):	Biblioteka do odczytu/zapisu plików PDF
 Name:		python-pdfrw
 Version:	0.4
-Release:	5
+Release:	6
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pdfrw/
